@@ -17,6 +17,14 @@
 
 在 104 競賽中將 "viewJob", "applyJob", "saveJob" 三個欄位加總得到 score 拿來排序 "joblist" 的結果為 0.44304。而將原本的 "joblist" 隨機排序後的結果約為 0.39，而第一名為 0.46768。可知該方式仍有一定程度的效果在。
 
+##### Ranking
+
+![update-img](images/104-hackathon-1.png)
+
+##### Updated score
+
+![clean-up](images/104-hackathon-2.png)
+
 ## Link
 
 - [2018-104Hackathon-Recommendation](https://github.com/104corp/2018-104Hackathon-Recommendation)
